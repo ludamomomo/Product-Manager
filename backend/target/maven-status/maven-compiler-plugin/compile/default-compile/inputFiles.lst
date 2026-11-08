@@ -1,0 +1,13 @@
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\config\CorsConfig.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\config\MybatisPlusConfig.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\dto\ProductDTO.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\vo\ProductVO.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\common\PageResponse.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\service\impl\ProductServiceImpl.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\config\GlobalExceptionHandler.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\common\ApiResponse.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\mapper\ProductMapper.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\ProductManagerApplication.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\entity\Product.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\controller\ProductController.java
+E:\AAAdocker\test_bushu\backend\src\main\java\com\productmanager\service\ProductService.java
